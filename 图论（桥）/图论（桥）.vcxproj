@@ -148,6 +148,8 @@
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <StackReserveSize>10240000000</StackReserveSize>
+      <StackCommitSize>10240000000</StackCommitSize>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
